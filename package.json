@@ -1,7 +1,7 @@
 {
   "name": "ember-capistrano",
-  "version": "0.0.0",
   "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.0",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -35,7 +35,9 @@
     "ember-disable-proxy-controllers": "^1.0.1",
     "ember-export-application-global": "^1.0.4",
     "ember-disable-prototype-extensions": "^1.0.0",
-    "ember-try": "~0.0.8"
+    "ember-try": "~0.0.8",
+    "shelljs": "~0.5.3",
+    "chalk": "^1.0.0"
   },
   "keywords": [
     "ember-addon"
